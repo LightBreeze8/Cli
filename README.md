@@ -1,7 +1,7 @@
 # Soundness CLI
 
 
-```brew update && brew upgrade```  
+> ```brew update && brew upgrade```  
 ```curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash```  
 ```curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh```  
 
