@@ -1,9 +1,9 @@
 # Soundness CLI
 
 
-```brew update && brew upgrade```
-```curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash```
-```curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh```
+```brew update && brew upgrade```  
+```curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash```  
+```curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh```  
 
 
 # 更新bash配置文件（macOS默认可能用zsh而非bash，两个都试一下，报错了就使用另一个）
