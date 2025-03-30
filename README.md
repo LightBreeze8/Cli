@@ -24,3 +24,15 @@ soundness-cli generate-key --name my-key
 
 **查看助记词(助记词一定要保存好)：**
 ```soundness-cli export-key --name my-key```  
+
+要多号的话把my-key后面加个数字即可，如：
+```
+soundness-cli generate-key --name my-key1
+soundness-cli export-key --name my-key1
+
+soundness-cli generate-key --name my-key2
+soundness-cli export-key --name my-key2
+
+soundness-cli generate-key --name my-key3
+soundness-cli export-key --name my-key3
+```
